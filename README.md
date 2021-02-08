@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 I'm a HSE university masters student of Applied Statistics(till July 2021 😄), mainly focusing on learning ML/DL and testing acquired knowledge via competitions.</br>
-Also looking for a job where i can use ML/DL.
 
 🎯 Right now you can catch me  participating at <a href="https://www.kaggle.com/c/cassava-leaf-disease-classification/overview">Cassava Leaf Disease Classification</a> competition.
 
@@ -10,7 +9,7 @@ Also looking for a job where i can use ML/DL.
 👀 2021 goal: Become kaggle competitions master and maybe get a job finally😅  
 
 Social media and public progile links:
-<a href="https://www.kaggle.com/edyanakov">Kaggle</a>
+<a href="https://www.kaggle.com/edyanakov">Kaggle</a> </br>
 <a href="https://t.me/edyanakov">Telegram</a>
 
 <!--
