@@ -9,6 +9,9 @@ Also looking for a job where i can use ML/DL.
 
 👀 2021 goal: Become kaggle competitions master and maybe get a job finally😅  
 
+Social media and public progile links:
+<a href="https://www.kaggle.com/edyanakov">Kaggle</a>
+<a href="https://t.me/edyanakov">Telegram</a>
 
 <!--
 **Edyanakov/Edyanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
