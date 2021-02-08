@@ -8,7 +8,7 @@ I'm a HSE university masters student of Applied Statistics(till July 2021 😄),
 
 👀 2021 goal: Become kaggle competitions master and maybe get a job finally😅  
 
-**Social media and public progile links:** </br>
+**Social media and public profile links:** </br>
 <a href="https://www.kaggle.com/edyanakov">Kaggle</a> </br>
 <a href="https://t.me/edyanakov">Telegram</a>
 
