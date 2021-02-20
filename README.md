@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I'm a HSE university masters student of Applied Statistics(till July 2021 😄), mainly focusing on learning ML/DL and testing acquired knowledge via competitions.</br>
+I'm a HSE university masters student of Applied Statistics(till July 2021 😄), mainly focusing on learning ML/DL and testing acquired knowledge via competitions.  Kaggle competition expert by now.</br>
 
-🎯 Right now you can catch me  participating at <a href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification">RANZCR CLiP - Catheter and Line Position Challenge</a> competition. Kaggle competition expert by now.
+🎯 Right now you can catch me  participating at <a href="https://www.kaggle.com/c/ranzcr-clip-catheter-line-classification">RANZCR CLiP - Catheter and Line Position Challenge</a> competition.
 
 📖 Currently taking Deep Learning School by MIPT course.
 
