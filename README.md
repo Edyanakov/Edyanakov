@@ -4,7 +4,7 @@ I'm a HSE university masters student of Applied Statistics(till July 2021 😄),
 
 Kaggle Competitions Expert so far.</br>
 
-🎯 Right now you can catch me  participating at <a href="https://www.kaggle.com/c/shopee-product-matching">Shopee - Price Match Guarantee</a> competition.
+🎯 Looking for aliens right now <a href="https://www.kaggle.com/c/seti-breakthrough-listen">SETI Breakthrough Listen - E.T. Signal Search</a>.
 
 📖 Currently taking Deep Learning School by MIPT course.
 
