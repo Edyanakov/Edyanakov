@@ -10,7 +10,7 @@ Kaggle Competitions Expert so far.</br>
 
 **Social media and public profile links:** </br>
 <a href="https://www.kaggle.com/edyanakov">Kaggle</a> </br>
-<img align="left" alt="https://www.kaggle.com/edyanakov" width="32px" src="<img src="https://img.icons8.com/windows/50/000000/kaggle.png"/>"/>
+[<img align="left" alt="https://www.kaggle.com/edyanakov" width="32px" src="<img src="https://img.icons8.com/windows/50/000000/kaggle.png"/>]
 <a href="https://t.me/edyanakov">Telegram</a>
 
 <!--
