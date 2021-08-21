@@ -5,7 +5,7 @@ Mainly focusing on learning ML/DL and practicing via competitions.</br>
 Kaggle Competitions Expert so far.</br>
 
 - 👷 Data science intern at Alfa bank 
-- 🎯 Learning Hindi and QA pipelines with <a href="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering">chaii - Hindi and Tamil Question Answering right now</a>.
+- 🎯 Learning Hindi and QA pipelines with <a href="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering">chaii - Hindi and Tamil Question Answering</a> right now.
 - 👀 2021 goal: Become kaggle competitions master😅
 - ⚡ Fun fact: I love doing brazilian jiu-jitsu (blue belt so far)
 
