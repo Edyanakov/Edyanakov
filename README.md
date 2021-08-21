@@ -10,8 +10,10 @@ Kaggle Competitions Expert so far.</br>
 
 **Social media and public profile links:** </br>
 <a href="https://www.kaggle.com/edyanakov">Kaggle</a> </br>
-[<img align="left" alt="https://www.kaggle.com/edyanakov" width="32px" src="<img src="https://img.icons8.com/windows/50/000000/kaggle.png"/>]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/windows/50/000000/kaggle.png" />][kaggle]
 <a href="https://t.me/edyanakov">Telegram</a>
 
+
+[kaggle]: https://www.kaggle.com/edyanakov
 <!--
 **Edyanakov/Edyanakov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile
