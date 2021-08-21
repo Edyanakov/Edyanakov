@@ -9,8 +9,7 @@ Kaggle Competitions Expert so far.</br>
 👀 2021 goal: Become kaggle competitions master😅  
 
 **Social media and public profile links:** </br>
-<a href="https://www.kaggle.com/edyanakov">Kaggle</a> </br>
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://img.icons8.com/windows/50/000000/kaggle.png" />][kaggle]
+[<img align="left" alt="codeSTACKr.com" width="32px" src="https://img.icons8.com/windows/50/000000/kaggle.png" />][kaggle]
 <a href="https://t.me/edyanakov">Telegram</a>
 
 
