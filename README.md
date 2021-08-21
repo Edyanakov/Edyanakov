@@ -18,7 +18,7 @@ Kaggle Competitions Expert so far.</br>
 
 ### Languages and Tools:
 
-<img align="left" alt="Python" width="32px" src="https://www.clipartmax.com/png/small/288-2886125_build-a-date-and-time-script-python-icon.png" />
+<img align="left" alt="Python" width="32px" src="https://www.iconfinder.com/icons/4518857/python_icon.png" />
 
 [kaggle]: https://www.kaggle.com/edyanakov
 [telegram]: https://t.me/edyanakov
