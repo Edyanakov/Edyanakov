@@ -24,7 +24,7 @@ Kaggle Competitions Expert so far.</br>
 <img align="left" alt="Matplot" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
 <img align="left" alt="Seaborn" width="32px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
 <img align="left" alt="Sclearn" width="32px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
-<img align="left" alt="Lightgbm" width="42px" src="https://repository-images.githubusercontent.com/64991887/dc855780-e34b-11ea-9ab8-e08ca33288b0" />
+<img align="left" alt="Lightgbm" width="62px" src="https://repository-images.githubusercontent.com/64991887/dc855780-e34b-11ea-9ab8-e08ca33288b0" />
 
 
 [kaggle]: https://www.kaggle.com/edyanakov
