@@ -18,7 +18,7 @@ Kaggle Competitions Expert so far.</br>
 
 ### Languages and Tools:
 
-[<img align="left" alt="Python" width="32px" src="https://www.iconspng.com/uploads/python-language-logo/python-language-logo.png" />]
+<img align="left" alt="Python" width="32px" src="https://www.iconspng.com/uploads/python-language-logo/python-language-logo.png" />
 
 
 [kaggle]: https://www.kaggle.com/edyanakov
