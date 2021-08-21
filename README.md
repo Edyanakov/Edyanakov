@@ -27,6 +27,10 @@ Kaggle Competitions Expert so far.</br>
 <img align="left" alt="Xgboost" width="62px" src="https://mljar.com/images/machine-learning/xgboost_v2.png" />
 <img align="left" alt="Lightgbm" width="62px" src="https://repository-images.githubusercontent.com/64991887/dc855780-e34b-11ea-9ab8-e08ca33288b0" />
 <img align="left" alt="Xgboost" width="62px" src="https://mljar.com/images/machine-learning/catboost.png" />
+<img align="left" alt="Pytorch" width="32px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
+<img align="left" alt="HuggingFace" width="32px" src="https://aws1.discourse-cdn.com/standard14/uploads/hellohellohello/original/1X/67a2c0590affeba7880ebeb46a115d863972d8ba.png" />
+<img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
+<img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 
 
 [kaggle]: https://www.kaggle.com/edyanakov
