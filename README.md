@@ -19,10 +19,13 @@ Kaggle Competitions Expert so far.</br>
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
-<img align="left" alt="Python" width="32px" src="https://numpy.org/images/logos/numpy.svg" />
+<img align="left" alt="Numpy" width="32px" src="https://numpy.org/images/logos/numpy.svg" />
 <img align="left" alt="Pandas" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
-<img align="left" alt="Pandas" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
-<img align="left" alt="Python" width="32px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
+<img align="left" alt="Matplot" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
+<img align="left" alt="Seaborn" width="32px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
+<img align="left" alt="Sclearn" width="32px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Sclearn" width="32px" src="https://neurohive.io/wp-content/uploads/2019/06/1200px-Scikit_learn_logo_small.svg.png" />
+<img align="left" alt="Lightgbm" width="32px" src="https://mljar.com/images/machine-learning/LightGBM_logo_black_text.svg" />
 
 
 [kaggle]: https://www.kaggle.com/edyanakov
