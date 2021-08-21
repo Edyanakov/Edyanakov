@@ -6,7 +6,8 @@ Kaggle Competitions Expert so far.</br>
 
 - 👷 Data science intern at Alfa bank 
 - 🎯 Learning Hindi and QA pipelines with <a href="https://www.kaggle.com/c/chaii-hindi-and-tamil-question-answering">chaii - Hindi and Tamil Question Answering right now</a>.
-- 👀 2021 goal: Become kaggle competitions master😅  
+- 👀 2021 goal: Become kaggle competitions master😅
+- ⚡ Fun fact: I love doing bjj (blue belt so far)
 
 **Social media and public profile links:** </br>
 [<img align="left" alt="Kaggle" width="32px" src="https://img.icons8.com/windows/50/000000/kaggle.png" />][kaggle]
