@@ -21,6 +21,8 @@ Kaggle Competitions Expert so far.</br>
 <img align="left" alt="Python" width="32px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/python_logo_icon_168886.png" />
 <img align="left" alt="Python" width="32px" src="https://numpy.org/images/logos/numpy.svg" />
 <img align="left" alt="Pandas" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Pandas_mark.svg/1200px-Pandas_mark.svg.png" />
+<img align="left" alt="Pandas" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/1200px-Created_with_Matplotlib-logo.svg.png" />
+<img align="left" alt="Python" width="32px" src="https://avatars.githubusercontent.com/u/22799945?s=200&v=4" />
 
 
 [kaggle]: https://www.kaggle.com/edyanakov
