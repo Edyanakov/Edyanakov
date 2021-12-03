@@ -12,7 +12,7 @@ Kaggle Competitions Expert so far.</br>
 ### Social media and public profile links:
 
 [<img align="left" alt="Kaggle" width="26px" src="https://img.icons8.com/windows/50/000000/kaggle.png" />][kaggle]
-[<img align="left" alt="Telegram" width="26px" src="https://cdn.icon-icons.com/icons2/2807/PNG/512/telegram_icon_178920.png" />][telegram]
+[<img align="left" alt="Telegram" width="26px" src="https://pics.freeicons.io/uploads/icons/png/1766858341556105723-512.png" />][telegram]
 
 <br/>
 
