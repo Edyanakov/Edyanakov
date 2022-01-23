@@ -6,7 +6,7 @@ Kaggle Competitions Expert so far.</br>
 
 - 👷 Data science intern at Alfa bank 
 - 🎯 Predicting cuteness of cats and dogs with <a href="https://www.kaggle.com/c/petfinder-pawpularity-score/overview">PetFinder.my - Pawpularity Contest</a> right now :dog2:.
-- 👀 2021 goal: Become kaggle competitions master😅
+- 👀 2022 goal: Become kaggle competitions master😅
 - ⚡ Fun fact: I love doing brazilian jiu-jitsu (blue belt so far)
 
 ### Social media and public profile links:
