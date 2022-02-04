@@ -10,7 +10,7 @@ Kaggle Competitions Expert so far.</br>
 - ⚡ Fun fact: I love doing brazilian jiu-jitsu (purple belt so far)
 
 ### 2022 competition results:
-- Kaggle - PetFinder.my Pawpularity Contest - 39/3537th place(missed gold solution)
+- Kaggle - <a href="https://www.kaggle.com/c/petfinder-pawpularity-score">PetFinder.my Pawpularity Contest</a> - 39/3537th place(missed gold solution)
 
 ### Social media and public profile links:
 
