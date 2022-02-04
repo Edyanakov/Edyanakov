@@ -5,9 +5,12 @@ Mainly focusing on learning ML/DL and practicing via competitions.</br>
 Kaggle Competitions Expert so far.</br>
 
 - 👷 Data science at Alfa bank 
-- 🎯 Predicting cuteness of cats and dogs with <a href="https://www.kaggle.com/c/petfinder-pawpularity-score/overview">PetFinder.my - Pawpularity Contest</a> right now :dog2:.
+- 🎯 Predicting decline reasons of reviews <a href="https://boosters.pro/championship/HeadHunter/overview">HeadHunter Employer Review Competition</a> right now
 - 👀 2022 goal: Become kaggle competitions master😅
 - ⚡ Fun fact: I love doing brazilian jiu-jitsu (purple belt so far)
+
+### 2022 competition results:
+-Kaggle - PetFinder.my - Pawpularity Contest - 39th place(missed gold solution)
 
 ### Social media and public profile links:
 
