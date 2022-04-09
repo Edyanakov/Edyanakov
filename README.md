@@ -11,6 +11,7 @@ Kaggle Competitions Expert so far.</br>
 
 ### 2022 competition results:
 - Kaggle - <a href="https://www.kaggle.com/c/petfinder-pawpularity-score">PetFinder.my Pawpularity Contest</a> - 39/3537th place(missed gold solution)
+- Boosters - <a href="https://boosters.pro/championship/HeadHunter/rating/employer_review_2">HeadHunter Employer Review Competition</a> - 2/227th place
 
 ### Social media and public profile links:
 
