@@ -5,7 +5,7 @@ Mainly focusing on learning ML/DL and practicing via competitions.</br>
 Kaggle Competitions Expert so far.</br>
 
 - 👷 Data science at Alfa bank 
-- 🎯 Predicting decline reasons of reviews <a href="https://boosters.pro/championship/HeadHunter/overview">HeadHunter Employer Review Competition</a> right now
+<!-- - 🎯 Predicting decline reasons of reviews <a href="https://boosters.pro/championship/HeadHunter/overview">HeadHunter Employer Review Competition</a> right now -->
 - 👀 2022 goal: Become kaggle competitions master😅
 - ⚡ Fun fact: I love doing brazilian jiu-jitsu (purple belt so far)
 
